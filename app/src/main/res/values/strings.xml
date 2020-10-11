@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SCA_wifiList</string>
+    <string name="available_networks">Available networks</string>
+</resources>
